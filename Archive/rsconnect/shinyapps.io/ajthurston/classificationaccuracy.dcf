@@ -1,0 +1,11 @@
+name: classificationaccuracy
+title: ClassificationAccuracy
+account: ajthurston
+server: shinyapps.io
+appId: 202593
+bundleId: 930261
+url: https://ajthurston.shinyapps.io/classificationaccuracy/
+when: 1502065955.56868
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app(simplified).R|www/if_linked_in_online_social_media_734393.png|www/if_linked_in_online_social_media_734393.svg|www/if_mail_email_envelope_send_message_1011335.png|www/if_mail_email_envelope_send_message_1011335.svg|www/if_social_media_logo_medium_1407936.png|www/if_social_media_logo_medium_1407936.svg|www/if_twitter_online_social_media_734367.png|www/if_twitter_online_social_media_734367.svg
